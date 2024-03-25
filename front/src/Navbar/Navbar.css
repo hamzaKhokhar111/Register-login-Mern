@@ -1,0 +1,15 @@
+.navbar{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    list-style: none;
+
+}
+.list{
+    color: red;
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    font-size: bold;
+}
